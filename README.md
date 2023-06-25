@@ -1,1 +1,1 @@
-# learning-springboot-ms-currency-exchange-service
+# Learning Springboot ms-currency-exchange-service
