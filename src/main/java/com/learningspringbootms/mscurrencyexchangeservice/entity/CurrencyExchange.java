@@ -1,4 +1,4 @@
-package com.learningspringbootms.mscurrencyexchangeservice;
+package com.learningspringbootms.mscurrencyexchangeservice.entity;
 
 import java.math.BigDecimal;
 
