@@ -19,7 +19,7 @@ public class CurrencyExchange {
 	private String to;
 	
 	private BigDecimal conversionMultiple;
-	private String environtment;
+	private String environment;
 
 	public CurrencyExchange() {
 		// super();
@@ -66,12 +66,12 @@ public class CurrencyExchange {
 		this.conversionMultiple = conversionMultiple;
 	}
 
-	public String getEnvirontment() {
-		return environtment;
+	public String getEnvironment() {
+		return environment;
 	}
 
-	public void setEnvirontment(String environtment) {
-		this.environtment = environtment;
+	public void setEnvironment(String environtment) {
+		this.environment = environtment;
 	}
 
 	
